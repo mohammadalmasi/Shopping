@@ -1,0 +1,8 @@
+E:\Projects\Exampels\Shopp\Shopping.Presentation\bin\Debug\netcoreapp3.1\Shopping.Presentation.deps.json
+E:\Projects\Exampels\Shopp\Shopping.Presentation\bin\Debug\netcoreapp3.1\Shopping.Presentation.dll
+E:\Projects\Exampels\Shopp\Shopping.Presentation\bin\Debug\netcoreapp3.1\Shopping.Presentation.pdb
+E:\Projects\Exampels\Shopp\Shopping.Presentation\obj\Debug\netcoreapp3.1\Shopping.Presentation.csprojAssemblyReference.cache
+E:\Projects\Exampels\Shopp\Shopping.Presentation\obj\Debug\netcoreapp3.1\Shopping.Presentation.AssemblyInfoInputs.cache
+E:\Projects\Exampels\Shopp\Shopping.Presentation\obj\Debug\netcoreapp3.1\Shopping.Presentation.AssemblyInfo.cs
+E:\Projects\Exampels\Shopp\Shopping.Presentation\obj\Debug\netcoreapp3.1\Shopping.Presentation.dll
+E:\Projects\Exampels\Shopp\Shopping.Presentation\obj\Debug\netcoreapp3.1\Shopping.Presentation.pdb
